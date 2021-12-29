@@ -1,0 +1,14 @@
+C:\Users\katte\source\repos\Задание9\bin\Debug\netcoreapp3.1\Задание9.exe
+C:\Users\katte\source\repos\Задание9\bin\Debug\netcoreapp3.1\Задание9.deps.json
+C:\Users\katte\source\repos\Задание9\bin\Debug\netcoreapp3.1\Задание9.runtimeconfig.json
+C:\Users\katte\source\repos\Задание9\bin\Debug\netcoreapp3.1\Задание9.runtimeconfig.dev.json
+C:\Users\katte\source\repos\Задание9\bin\Debug\netcoreapp3.1\Задание9.dll
+C:\Users\katte\source\repos\Задание9\bin\Debug\netcoreapp3.1\Задание9.pdb
+C:\Users\katte\source\repos\Задание9\obj\Debug\netcoreapp3.1\Задание9.csproj.AssemblyReference.cache
+C:\Users\katte\source\repos\Задание9\obj\Debug\netcoreapp3.1\Задание9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katte\source\repos\Задание9\obj\Debug\netcoreapp3.1\Задание9.AssemblyInfoInputs.cache
+C:\Users\katte\source\repos\Задание9\obj\Debug\netcoreapp3.1\Задание9.AssemblyInfo.cs
+C:\Users\katte\source\repos\Задание9\obj\Debug\netcoreapp3.1\Задание9.csproj.CoreCompileInputs.cache
+C:\Users\katte\source\repos\Задание9\obj\Debug\netcoreapp3.1\Задание9.dll
+C:\Users\katte\source\repos\Задание9\obj\Debug\netcoreapp3.1\Задание9.pdb
+C:\Users\katte\source\repos\Задание9\obj\Debug\netcoreapp3.1\Задание9.genruntimeconfig.cache
