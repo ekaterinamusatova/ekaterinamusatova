@@ -363,3 +363,6 @@ MigrationBackup/
 FodyWeavers.xsd
 /Зачёт/Зачёт.csproj
 /Зачёт/Зачёт.sln
+/11KateM/HRLibrary.UnitTests/packages.config
+/11KateM/HRLibrary.UnitTests/HRLibrary.UnitTests.csproj
+/11KateM/HRLibrary/HRLibrary.csproj
